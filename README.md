@@ -1,3 +1,5 @@
+![Nullify Logo](https://nullify.uno/assets/images/nullify_banner.svg)
+
 # Nullify CTFd Theme
 
 A theme for CTFd with the Nullify color scheme. (Mainly dark green and dark grey. We are bug dark theme supporters here)
