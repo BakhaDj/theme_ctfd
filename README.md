@@ -1,4 +1,6 @@
-![Nullify Logo](https://nullify.uno/assets/images/nullify_banner.svg)
+<p align="center">
+  <img src="https://nullify.uno/assets/images/nullify_banner.svg">
+</p>
 
 # Nullify CTFd Theme
 
