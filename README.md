@@ -18,4 +18,4 @@ Now, go into the CTFd Admin Panel > Config > Theme and select "nullify" for the 
 
 Now if you navigate back to the front end, you should have a cool dark-themed, green Nullify-looking platform.
 
-![Cool Challenges Page](blob:https://imgur.com/d8a00e07-c3b6-467e-bff1-54ba6f429bb6)
+![Cool Challenges Page](https://i.imgur.com/pWJMwPx.png)
